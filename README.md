@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wojtekkosowicz
 - 👀 I’m interested in Angular, Astro, NuxtJS
-- 🌱 I’m currently learning Angular
+- 🌱 I’m an Angular enthusiast still learing new things
 - 📫 How to reach me - find me on linked - https://www.linkedin.com/in/wojciech-kosowicz-0526bb205/
 
 <!---
